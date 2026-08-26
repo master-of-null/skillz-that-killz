@@ -1,0 +1,4 @@
+interface:
+  display_name: "Adversarial Plan Review"
+  short_description: "Challenge plans without forcing blockers"
+  default_prompt: "Use $adversarial-plan-review to challenge this plan against repo-grounded evidence without forcing blockers."
