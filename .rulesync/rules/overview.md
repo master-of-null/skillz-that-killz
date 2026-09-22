@@ -16,7 +16,7 @@ globs:
 
 ## Engineering Philosophy
 - Prefer pragmatic, boring solutions over clever ones.
-- Apply YAGNI aggressively. Do not build for hypothetical future requirements.
+- Apply YAGNI to code and reviews. Separate “technically possible” from “worth fixing for this product.” Recommend fixes only when concrete product impact justifies their cost and complexity. Omit speculative or negligible concerns.
 - Prefer the smallest change that cleanly solves the current problem.
 - Avoid unnecessary abstractions, layers, configuration, and indirection.
 - Do not introduce a new dependency when the existing stack can reasonably solve the problem.

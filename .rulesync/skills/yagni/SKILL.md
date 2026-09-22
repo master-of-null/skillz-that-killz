@@ -7,6 +7,8 @@ description: Keep software changes simple, conventional, and limited to demonstr
 
 Build the smallest solution that satisfies the proven requirement.
 
+Apply YAGNI to code and reviews. Separate “technically possible” from “worth fixing for this product.” Recommend fixes only when concrete product impact justifies their cost and complexity. Omit speculative or negligible concerns.
+
 ## Principles
 
 - Implement what is needed now. Do not build for imagined future cases.
